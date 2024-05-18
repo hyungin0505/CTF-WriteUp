@@ -2,8 +2,8 @@
 # 2024
 ## AmateursCTF 2024
 * **web**
-  * [agile-rut](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/AmateursCTF%202024#webagile-rut)
   * [denied](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/AmateursCTF%202024#webdenied)
+  * [agile-rut](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/AmateursCTF%202024#webagile-rut)
 * **osint**
   * [cherry-blossoms](https://github.com/hyungin0505/CTF-WriteUp/blob/main/2024/AmateursCTF%202024/README.md#osintcherry-blossoms)
  
