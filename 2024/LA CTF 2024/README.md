@@ -1,5 +1,6 @@
 ## LA CTF 2024 WriteUp
 # **web/terms-and-conditions**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/web/terms-and-conditions)
 ```javascript
 const accept = document.getElementById("accept");
             document.body.addEventListener("touchstart", (e) => {
@@ -16,6 +17,7 @@ document.getElementById('accept').click();
 
 
 # **web/flaglang**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/web/flaglang)
 ```yaml
 Flagistan:
   iso: FL
@@ -53,6 +55,7 @@ Edit `iso` cookie value to anything except `FL`, you can get flag.
 
 
 # **rev/shattered-memories**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/rev/shattered-memories)
 ```c
 v4 = strncmp(v10, "t_what_f", 8uLL);
 v14 += v3 == 0;
@@ -71,6 +74,7 @@ Disassembled in IDA, you can get flag.
 
 
 # **rev/aplet321**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/rev/aplet321)
 ```c
 do
   {
@@ -101,6 +105,7 @@ send payload including `pretty` 15 times, `please` 39 times.
 
 
 # **crypto/valentines-day**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/crypto/valentines-day)  
 `ropgf{qvjal_dfuxaxzbk_gbq_jeci_hdt_nr_hdr_eexij}`
 Encrypted flag in `ct.txt`.   
 Use vigenere cipher decoder, you can get flag.   
@@ -113,6 +118,7 @@ nevergonnagiveyouupnevergonnaletyoudownnevergonnarunaroundanddesertyounevergonna
 `lactf{known_plaintext_and_were_off_to_the_races}`
 
 # **crypto/very-hot**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/crypto/very-hot)
 ```python
 from Crypto.Util.number import getPrime, isPrime, bytes_to_long
 from flag import FLAG
@@ -157,6 +163,7 @@ print("FLAG:", long_to_bytes(pt))
 `lactf{c4n_y0u_plz_unm1x_my_c1gn4lz}`
 
 # **crypto/selamat pagi**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/crypto/selamat-pagi)
 ```
 Efe kqkbkx czwkf akfs kdkf qzfskf wzdcjtfk
 Ieqku kqk akfs ikxj kck akfs wkak ukikukf :Q
@@ -169,18 +176,21 @@ I just solved it letter by letter with google and naver dictionary...
 `lactf{selamat_pagi_apakah_kamu_suka_analisis_frekuensi}`
 
 # **misc/infinite loop**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/misc/infinite-loop)  
 You have to find flag in Google Form Loop.   
 Just Press F12 and search `lactf` keyword, you can find flag easily.   
    
 `lactf{134k1ng_4h3_f04mz_s3cr3tz}`   
 
 # **misc/mixed signals**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/misc/mixed-signals)  
 Just listen wav file.   
 If you gather all the first letters of the words you hear, you can get flag.   
 
 `lactf{c4n_y0u_plz_unm1x_my_s1gn4lz}`
 
 # **misc/one by one**
+[chall](https://github.com/uclaacm/lactf-archive/tree/main/2024/misc/one-by-one)  
 Press F12 and find `jsmodel` in `role="listitem"` in `role="list"` at each questions in Google Forms.   
 Only one letter has another number.   
 Combine all letters from 26 questions.   
