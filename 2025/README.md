@@ -21,3 +21,9 @@
   * [broken ships](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/LA%20CTF%202025#broken-ships)
   * [Danger Searching](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/LA%20CTF%202025#broken-ships)
   * [extended](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/LA%20CTF%202025#extended)
+
+## SSU CTF 2025
+> 01.25 10:00 - 01.25 18:00 (KST)   
+* **misc**
+  * [meme](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/SSU%20CTF%202025#meme)
+  * [compressor](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/SSU%20CTF%202025#compressor)
