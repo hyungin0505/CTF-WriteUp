@@ -3,30 +3,30 @@
 > 11.30 21:00 - 12.02 21:00 (KST)   
 > Place **149th** / 336 teams
 
-* ** OSINT **
+* **osint**
   * [Favorite Journal](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#favorite-journal)   
   * [The Statue](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#the-statue)
   * [Vacation(1)](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#vacation1)
-* **STEGANO**
+* **stegano**
   * [Truesight](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#truesight)
-* **CRYPTO**
+* **crypto**
   * [RSA1](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#rsa1)
   * [Chill Bro](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#chill-bro)
-* **Reconnaissance**
+* **reconnaissance**
   * [Secure Life](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/CYBERGON%20CTF%202024#secure-life)
 
 ## SecurityFACT CTF w. Alkon 2024
 > 11.15 (KST)   
 > Place **6th**
 
-* **Web**
+* **web**
   * [bypass_filter](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/SecurityFACT%20CTF%20w.%20Alkon%202024#bypass_filter)
-* **Forensic**
+* **forensic**
   * [건덕이는 포렌식고수](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/SecurityFACT%20CTF%20w.%20Alkon%202024#%EA%B1%B4%EB%8D%95%EC%9D%B4%EB%8A%94-%ED%8F%AC%EB%A0%8C%EC%8B%9D%EA%B3%A0%EC%88%98)
   * [못 찾겠지? 못찾겠쥐](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/SecurityFACT%20CTF%20w.%20Alkon%202024#%EB%AA%BB-%EC%B0%BE%EA%B2%A0%EC%A7%80-%EB%AA%BB%EC%B0%BE%EA%B2%A0%EC%A5%90)
-* **Pwn**
+* **pwn**
   * [축제용건국이의 먹거리탈취작전](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/SecurityFACT%20CTF%20w.%20Alkon%202024#%EC%B6%95%EC%A0%9C%EC%9A%A9%EC%82%AC%EA%B1%B4%EA%B5%AD%EC%9D%B4%EC%9D%98-%EB%A8%B9%EA%B1%B0%EB%A6%AC%ED%83%88%EC%B7%A8%EC%9E%91%EC%A0%84)
-* **Crypto** 
+* **crypto** 
   * [쿠가 가져간 열쇠](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2024/SecurityFACT%20CTF%20w.%20Alkon%202024#%EC%BF%A0%EA%B0%80-%EA%B0%80%EC%A0%B8%EA%B0%84-%EC%97%B4%EC%87%A0)
 
 ## Space War Web 2024 May
