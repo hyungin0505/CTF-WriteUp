@@ -1,7 +1,7 @@
 # CTF WriteUp
 # 2025
 ## DawgCTF 2025
-> 04.19 01:00 - 04.21 01:00 (KST)
+> 04.19 01:00 - 04.21 01:00 (KST)   
 > Place **190th** / 760 teams
 
 ## LA CTF 2025
