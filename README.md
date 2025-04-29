@@ -6,6 +6,22 @@
 > 04.26 09:00 - 04.26 18:00 (KST)  
 > Place **43rd**  
 > in Team **모구모구** (Beginner A, 4 Teammates)  
+* **Initial Access**
+  * [Forgotten Past](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#forgotten-past---web)
+* **Resource Development**
+  * ~~[Barcode]()~~
+  * [Bridge](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#bridge)  
+  * [I love reversing](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#i-love-reversing)
+* **Privilege Escalation**
+  * [Shadow of the System](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#shadow-of-the-system)
+  * [TAR](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#tar)
+* **Lateral Movement**
+  * [Watch](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#watch)
+* **Credential Access**
+  * [Cat](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#cat)
+* **Collection**
+  * [Hidden Message](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#hidden-message)
+  * [Nothing is essential](https://github.com/hyungin0505/CTF-WriteUp/tree/main/2025/2025%20Sejong%20HackTheon#nothing-is-essential)
 
 ## DawgCTF 2025
 > 04.19 01:00 - 04.21 01:00 (KST)   
