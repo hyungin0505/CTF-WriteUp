@@ -1,6 +1,7 @@
 # CTF WriteUp
 # 2025
-## HackTheon Sejong International Collegiate Cyber Security Competition Preliminaries
+## 2025 HackTheon Sejong
+### HackTheon Sejong International Collegiate Cyber Security Competition Preliminaries
 ### 핵테온 세종 국제 대학생 사이버 보안 경진대회 예선
 > 04.26 09:00 - 04.26 18:00 (KST)
 > Place **43rd**
